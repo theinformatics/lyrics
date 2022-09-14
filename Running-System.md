@@ -59,3 +59,34 @@ Otherwise you repair
 Your running system  
 Your running system  
 Your running system  
+
+---
+
+### Chords
+
+    Intro  
+D A  
+  
+    Strophe
+  
+D G D  
+G D  
+A G D  
+A A D A(12)  
+  
+    Bridge
+  
+D A G  
+D A G  
+D A G  
+E  
+G  
+A  
+  
+    Refrain
+  
+D A  
+D A  
+D A  
+G A  
+  

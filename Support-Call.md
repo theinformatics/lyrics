@@ -29,6 +29,27 @@ You will be my hero for – one day - Yeah
 Did you say I have to switch it off? - aha  
 But now I can't see really a lot – aha  
 The reboot starts and the system seems brand new - aha  
-Are you someone from the informatics crew? - Yeahhh  
+Are you someone from the informatics crew? - Yeah  
 
 #### Refrain
+
+Switch off, Switch on! It works!  
+Problem sits in front of the screen  
+Switch off, Switch on! It works!  
+Working with a windows machine  
+
+---
+
+### Chords
+
+    Strophe
+  
+G A  
+  
+    Refrain
+  
+D B A  
+G B A  
+D B A  
+G B A  
+  

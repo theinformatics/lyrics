@@ -22,3 +22,16 @@ Strange photoshop images, i saw them all
 God dammit whats wrong with people  
 Riding round with the rest of the beatles
 Whole world must consist of trolls
+
+---
+
+### Chords
+
+    Strophe
+  
+F C A G  
+F C E D  
+  
+    Refrain
+  
+C G C  

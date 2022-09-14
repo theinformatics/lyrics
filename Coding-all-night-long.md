@@ -33,3 +33,16 @@ My mind was aching and we were making it
 
 And I'm coding all night long  
 Yeah, I'm coding all night long
+
+---
+
+### Chords
+
+    Strophe
+  
+G C D  
+  
+    Refrain
+  
+G C B D  
+  

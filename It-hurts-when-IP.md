@@ -33,6 +33,11 @@ or this site cannot be reached
 
 #### Refrain (2x)
 
+(It hurts) A lot of numbers, a lot of points  
+(It hurts) ipconfig is telling you  
+(It hurts) A lot of numbers, a lot of points  
+(It hurts) It hurts when IP
+
 #### Strophe 3
 
 No, I don't care what they say  
@@ -44,3 +49,28 @@ Shiver your Dual Stack up your ass
 you stupid son of a bitch  
 I did it on my own without  
 a single switch
+
+
+---
+
+### Chords
+
+    Intro  
+
+A C# D C# e b  
+A C# D C# e  
+  
+    Strophe / Solo
+  
+A E b D  
+A E b D  
+A E b D  
+A E b De
+  
+    Refrain
+  
+A G  
+D A  
+A G  
+D e  
+  

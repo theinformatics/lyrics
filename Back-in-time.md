@@ -64,3 +64,36 @@ and Ice on the car
 
 Back in Time  
 It's a time machine
+
+---
+
+### Chords
+
+    Intro  
+
+A f# E~  
+A f# E~  
+  
+    Strophe
+  
+d  
+A  
+d  
+A  
+E  
+A  
+E  
+A  
+  
+    Refrain
+  
+A f# E  
+A f# E  
+A f# E d e  
+  
+    Solo
+  
+C# D F# G D  
+C# D F# G D  
+C# D F# G D  
+C G A  

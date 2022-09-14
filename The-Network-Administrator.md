@@ -49,7 +49,8 @@ The admin rampage is finally done
 
 ### Chords
 
-     Intro  
+    Intro  
+
 E A  
 E A  
 E A  

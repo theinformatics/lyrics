@@ -31,3 +31,17 @@ Be my Blue screen of death - yeah - I need you
 
 Travel through time and space  
 With the code I'm writing now  
+
+---
+
+### Chords
+
+    Strophe
+  
+E c# D B E  
+c# A H E  
+  
+    Refrain
+  
+H E H E  
+A D H H  

@@ -1,6 +1,7 @@
 # Summer in the Basement
   
-#### Strophe  
+#### Strophe
+
 The summer starts and the weather's nice, everybody's going out  
 Meeting friends  and having fun, thats what it is all about  
 Sitting in the sun and feeling how your skin gets brown  
@@ -24,7 +25,7 @@ Summer in the Basement
 It's too warm, you are sweating fast, why should you go out in the heat,  
 In your basement it's cold, and here - you have everything you need  
   
-fast food, Snacks and your high end pc is cooling down,  
+fast food, Snacks and your high end PC is cooling down,  
 Your mom brings you food and stuff, your seat looks like a throne  
   
 Why should you fly for hours to other countries and poison in the air  
@@ -40,3 +41,20 @@ Summer in the Basement
   
 All your friends are having fun, and celebrate their lives  
 Summer in the Basement  
+
+---
+
+### Chords
+
+    Intro / Strophe
+
+2x  
+E A  
+E A b  
+A E  
+A b  
+  
+    Refrain  
+  
+E b c# G#  
+A e b  

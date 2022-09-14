@@ -35,3 +35,21 @@ Nothing new nothing to see
 Algorithms feed me  
 On the breast of social  
 Trolling 'round the christmas tree
+
+---
+
+### Chords
+
+    Strophe A
+  
+b A D  
+  
+    Strophe B
+  
+b A b A b A D  
+b A b A b A  G A  
+  
+    Refrain
+  
+D A G b A
+  
