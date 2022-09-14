@@ -1,4 +1,4 @@
-# Enough Internet today
+# Enough Internet Today
 
 #### Refrain
 
