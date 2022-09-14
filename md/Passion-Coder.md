@@ -1,0 +1,47 @@
+# Passion Coder
+
+#### Strophe
+
+Your the reason for this text and for these chords  
+Remember when it all began  
+Learned from failures scratched head and start debugging  
+Again and again
+
+First lines in my IDE I thought I did it  
+on first take  
+But truth got me by the balls it crashed production  
+For god's sake
+
+#### Refrain
+
+Be my memory out of bounds exception  
+Be my Blue screen of death - yeah - I need you
+
+#### Strophe
+
+CI/CD is just for loosers when you code  
+on the productive side of live  
+Fucked it up not only once  
+It was not me who paid the price
+
+#### Refrain
+
+Be my memory out of bounds exception  
+Be my Blue screen of death - yeah - I need you
+
+Travel through time and space  
+With the code I'm writing now  
+
+---
+
+### Chords
+
+    Strophe
+  
+E c# D B E  
+c# A H E  
+  
+    Refrain
+  
+H E H E  
+A D H H  
