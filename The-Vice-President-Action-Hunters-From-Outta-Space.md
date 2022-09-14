@@ -33,13 +33,11 @@ With his famous horse, everybody recognize
 
 Heroes come and heroes go  
 But everything you need to know  
-  
 This team is super hard as shit  
 The villains are afraid of it  
   
 Heroes come and heroes go  
 But everything you need to know  
-
 This team is super hard as shit  
 The villains are afraid of it  
   
@@ -58,11 +56,11 @@ It is  H. I. T. L. E. R
 #### Bridge
 
 One Punch, one kick, one nunchucku  
-The heroes win, i think you too?  
+The heroes win, I think you too?  
 The bad guys are some racist scum  
 Kick their ass, don't be so dump  
   
-#### Refrain
+#### Refrain  
 
 Heroes come and heroes go  
 But everything you need to know  
