@@ -1,23 +1,23 @@
 # (Never change a) Running System
 
-#### Strophe
+#### Verse
 
 You have a running system and it's always fine and okay  
 But your boss told you to change it anyway
 
-So you have to change And It is a bad idea  
+So you have to change and it is a bad idea  
 So you made a change and it was bad idea
 
 There is no problem, but perhaps its not so nice  
 Your boss asked you now more than twice
 
-So you have to change And It is a bad idea  
+So you have to change and it is a bad idea  
 So you made a change and it was bad idea
 
 #### Bridge
 
 It is fucked up and you work til dawn  
-The system crashed and your weekend`s gone  
+The system crashed and your weekend's gone  
 With a change the bugs will spawn
 
 Do it rare  
@@ -30,19 +30,19 @@ Your running system
 Your running system  
 Your running system  
 
-#### Strophe
+#### Verse
 
 Now you search for docs and you search for all the logs  
 But all you find are outdated blogs
 
-So you had to change And It was a bad idea  
+So you have to change and it is a bad idea  
 So you made a change and it was bad idea
 
 You have not idea what you are doing here  
 time is running and you feel the smell of fear
 
-So you have to change And It is a bad idea  
-So you made a change and it was bad idea  
+So you have to change and it is a bad idea  
+So you made a change and it was bad idea
 
 #### Bridge
 
@@ -60,33 +60,6 @@ Your running system
 Your running system  
 Your running system  
 
----
-
-### Chords
-
-    Intro  
-D A  
-  
-    Strophe
-  
-D G D  
-G D  
-A G D  
-A A D A(12)  
-  
-    Bridge
-  
-D A G  
-D A G  
-D A G  
-E  
-G  
-A  
-  
-    Refrain
-  
-D A  
-D A  
-D A  
-G A  
-  
+Your running system  
+Your running system  
+Your running system  

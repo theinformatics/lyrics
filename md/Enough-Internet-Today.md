@@ -5,7 +5,7 @@
 Well ... okay ... Enough Internet today  
 Well ... okay ... thats too much internet today
 
-#### Strophe
+#### Verse
 
 Donald Trump and Vladimir Putin  
 are licking penis-shaped ice cream  
@@ -22,16 +22,3 @@ Strange photoshop images, i saw them all
 God dammit whats wrong with people  
 Riding round with the rest of the beatles
 Whole world must consist of trolls
-
----
-
-### Chords
-
-    Strophe
-  
-F C A G  
-F C E D  
-  
-    Refrain
-  
-C G C  

@@ -4,7 +4,7 @@ Tempo:
 Chorus: 
 C G C
 
-Strophe: 
+Verse: 
 F C A G
 F C E D
 

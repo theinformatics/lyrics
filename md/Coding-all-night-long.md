@@ -1,6 +1,6 @@
 # Coding all Night Long
 
-#### Strophe
+#### Verse
 
 She was a fast machine, she kept her memory clean  
 She had the best damn cpu that I ever seen  
@@ -17,7 +17,7 @@ My mind was aching and we were making it
 I'm coding all night long  
 Yeah, I'm coding all night long
 
-#### Strophe
+#### Verse
 
 Working double time on the production line  
 She's one of a kind, she's just mine, all mine  
@@ -33,16 +33,3 @@ My mind was aching and we were making it
 
 And I'm coding all night long  
 Yeah, I'm coding all night long
-
----
-
-### Chords
-
-    Strophe
-  
-G C D  
-  
-    Refrain
-  
-G C B D  
-  

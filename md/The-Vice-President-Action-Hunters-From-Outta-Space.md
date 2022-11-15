@@ -3,23 +3,23 @@
 Here are the ...
   
 Vice President Action Hunters  
-they came from outta space  
+They came from outta space  
 Cool clothes and round house kicks  
-directly in your face  
+Directly in your face  
   
 Vice President Action Hunters  
 They are the heroes from outta space  
 They expecto their patronus  
 Directly in your face  
   
-#### Strophe
+#### Verse
 
 Their mighty leader is ninjesus  
 He's the prophet of all ninjas, oh yes he is  
 Throwing stars, bad ones get kicks  
 He plays guitar and kicks the licks  
   
-There are two more, it is thor and jones  
+There are two more, it's thor and jones  
 One plays with lightning, the other with bones  
 Here is my big bang theory  
 They are the heroes they need to be  
@@ -41,21 +41,21 @@ But everything you need to know
 This team is super hard as shit  
 The villains are afraid of it  
   
-#### Strophe
+#### Verse
 
 One evil guy is skeletor  
-He has much power but he wants more  
+He has much power, but he wants more  
 He sets up a trap, sure he is so bad  
-Angry sharks with fucking Lasers on their head  
+Angry sharks with fucking lasers on their head  
   
 Here comes the endboss  
 The one with his stupid cross  
-He rides through the streets with his fancy car  
-It is  H. I. T. L. E. R  
+Who rides through the streets with his fancy car  
+It's  H. I. T. L. E. R.  
   
 #### Bridge
 
-One Punch, one kick, one nunchucku  
+One punch, one kick, one nunchucku  
 The heroes win, I think you too?  
 The bad guys are some racist scum  
 Kick their ass, don't be so dump  

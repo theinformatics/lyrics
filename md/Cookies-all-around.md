@@ -1,6 +1,6 @@
 # Cookies all Around
 
-#### Strophe
+#### Verse
 
 It's the most wonderful time of the day  
 Hang my self into the web  
@@ -8,23 +8,27 @@ Have to wait the 56K
 Load the pages bit by bit
 
 These were the days when all the  
-web was polite and honest  
+Web was polite and honest  
 Nothing but the truth was yet to load
 
-Now that data-privacy eats  
+Now, that data-privacy eats  
 Fucking UX for breakfast  
 There's only kitten and memes on speed
 
 #### Refrain
 
 Cookies all around me  
-Opt in Opt out yeah  
+&nbsp;&nbsp; Opt in opt out yeah  
 Cookies all around
 
-#### Strophe
+Cookies all around me  
+&nbsp;&nbsp; Opt in opt out yeah  
+Cookies all around
+
+#### Verse
 
 It's the most wonderful time of the day  
-Scrolling towards timelines end  
+Scrolling towards timeline's end  
 New definition of infinity  
 Repeating post no relevance
 
@@ -36,20 +40,20 @@ Algorithms feed me
 On the breast of social  
 Trolling 'round the christmas tree
 
----
+#### Refrain
 
-### Chords
+Cookies all around me  
+&nbsp;&nbsp; Opt in opt out yeah  
+Cookies all around
 
-    Strophe A
-  
-b A D  
-  
-    Strophe B
-  
-b A b A b A D  
-b A b A b A  G A  
-  
-    Refrain
-  
-D A G b A
-  
+Cookies all around me  
+&nbsp;&nbsp; Opt in opt out yeah  
+Cookies all around
+
+Cookies all around me  
+&nbsp;&nbsp; Opt in opt out yeah  
+Cookies all around
+
+Cookies all around me  
+&nbsp;&nbsp; Opt in opt out yeah  
+Cookies all around

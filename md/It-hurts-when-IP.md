@@ -1,6 +1,6 @@
 # It hurts when IP
 
-#### Strophe 1
+#### Verse 1
 
 One, twenty-seven, zero, zero, one  
 is my home IP  
@@ -19,7 +19,7 @@ and everything - changed for me
 (It hurts) A lot of numbers, a lot of points  
 (It hurts) It hurts when IP
 
-#### Strophe 2
+#### Verse 2
 
 I tear down walls, I open ports  
 No Bit is coming through  
@@ -38,7 +38,7 @@ or this site cannot be reached
 (It hurts) A lot of numbers, a lot of points  
 (It hurts) It hurts when IP
 
-#### Strophe 3
+#### Verse 3
 
 No, I don't care what they say  
 I do my own thing  
@@ -49,28 +49,3 @@ Shiver your Dual Stack up your ass
 you stupid son of a bitch  
 I did it on my own without  
 a single switch
-
-
----
-
-### Chords
-
-    Intro  
-
-A C# D C# e b  
-A C# D C# e  
-  
-    Strophe / Solo
-  
-A E b D  
-A E b D  
-A E b D  
-A E b De
-  
-    Refrain
-  
-A G  
-D A  
-A G  
-D e  
-  

@@ -1,6 +1,6 @@
 # Back in Time
 
-#### Strophe
+#### Verse
 
 It was in late nineteen eighty five,  
 when a young Guy and his doctor took a drive  
@@ -30,7 +30,7 @@ Back in Time, Flames on the street
 Back in Time, and Ice on the car  
 Back in Time, Its a time machine
 
-#### Strophe
+#### Verse
 
 It was in late nineteen fifty-five  
 when a farm-boy saw him arrive  
@@ -64,36 +64,3 @@ and Ice on the car
 
 Back in Time  
 It's a time machine
-
----
-
-### Chords
-
-    Intro  
-
-A f# E~  
-A f# E~  
-  
-    Strophe
-  
-d  
-A  
-d  
-A  
-E  
-A  
-E  
-A  
-  
-    Refrain
-  
-A f# E  
-A f# E  
-A f# E d e  
-  
-    Solo
-  
-C# D F# G D  
-C# D F# G D  
-C# D F# G D  
-C G A  
