@@ -29,7 +29,7 @@ Tempo: 180
 
 Chorus: 
 G C H D
-Strophe:
+Verse:
 G C D
 
 

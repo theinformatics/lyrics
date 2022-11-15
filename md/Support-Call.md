@@ -1,6 +1,6 @@
 # Support Call
 
-#### Strophe
+#### Verse
 
 Hi, is there the support hotline - aha  
 I got a problem with a laptop of mine - aha  
@@ -19,7 +19,7 @@ Problem sits in front of the screen
 Switch off, Switch on! It works!  
 Working with a windows machine  
 
-#### Strophe
+#### Verse
 
 Hey, can you please try to help remote? - aha  
 What you mean I have to strike the note? - aha  
@@ -37,19 +37,3 @@ Switch off, Switch on! It works!
 Problem sits in front of the screen  
 Switch off, Switch on! It works!  
 Working with a windows machine  
-
----
-
-### Chords
-
-    Strophe
-  
-G A  
-  
-    Refrain
-  
-D B A  
-G B A  
-D B A  
-G B A  
-  
