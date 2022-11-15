@@ -21,4 +21,3 @@
 [Back in Time](md/Back-in-time.md)  
 [Coding all Night Long](md/Coding-all-night-long.md)  
 [Support Call](md/Support-Call.md)  
-[Vice President Action Hunters from Outta Space](md/The-Vice-President-Action-Hunters-From-Outta-Space.md)  
