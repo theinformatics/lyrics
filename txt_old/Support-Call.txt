@@ -10,7 +10,7 @@ Working with a windows machine
 
 
 
-Strophe
+Verse
 G A
 Hi, is there the support hotline - aha
 I got a problem with a laptop of mine - aha
@@ -25,7 +25,7 @@ But nothing solved it since it happened two weeks ago
 
 
 
-Strophe
+Verse
 
 Draft C#
 

@@ -4,7 +4,7 @@ D	A
 
 ========================================================
 
-Strophe 1
+Verse 1
 
 D				G		D
 You have a running system AND ITS always fine and okay
@@ -65,7 +65,7 @@ G	A
 
 
 ========================================================
-Strophe 2
+Verse 2
 
 D				G		D
 Now you search for docs and you search for all the logs  

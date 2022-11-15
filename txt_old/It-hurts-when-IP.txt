@@ -6,7 +6,7 @@ A C# D C# e   b
 A C# D C# e
  
  
-Strophe
+Verse
 A           E            b    D            
 One, twenty seven, zero, zero, one      is my home IP
 A           E            b    D
