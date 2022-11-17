@@ -1,24 +1,26 @@
 # Back in Time
 
+(available on [YouTube](https://youtu.be/qEpcNfi0eQA))
+
 #### Verse
 
 It was in late nineteen eighty five,  
-when a young Guy and his doctor took a drive  
+When a young guy and his doctor took a drive  
 At the Twin Pine Mall in the parking lot  
 There came bad guys and there was a shot
 
 So that was the end  
-of Emmet Brown  
+Of Emmet Brown  
 Adventure began  
-for Marty McFly
+For Marty McFly
 
-The Doctor had a fancy car  
-and he thought he will be a science star
+So, the doctor had a fancy car  
+And he thought he will be a science star
 
 He showed Marty what his car can do  
 And Marty was blown out off his shoe
 
-Its a time machine  
+It's a time machine  
 In a fancy car
 
 It can travel in time  
@@ -26,41 +28,36 @@ when you are fast enough
 
 #### Refrain
 
-Back in Time, Flames on the street  
-Back in Time, and Ice on the car  
-Back in Time, Its a time machine
+Back in Time, flames on the street  
+Back in Time, and ice on the car  
+Back in Time, it's a time machine
 
 #### Verse
 
 It was in late nineteen fifty-five  
-when a farm-boy saw him arrive  
-he had a visit at the twin pine farm  
-he drove straight into the farmers barn
+When a farm-boy saw him arrive  
+He had a visit at the twin pine farm  
+He drove straight into the farmers barn
 
 Flames on the street  
-and Ice on the car  
+And ice on the car  
 Marty drove away  
 But he hit a pine
 
-one point twenty-one gigawatt  
+One point twenty-one gigawatt  
 Tommy Addison, this is a lot
 
-Marty planned his travel back with young DocBrown  
+Marty planned his travel back with Doc Brown  
 There was a lightning and a clock in town  
 
 If you wanna go back  
-you will need some help
+You will need some help
 
-eighty-eight miles  
-and a lightning bolt
+Eighty-eight miles  
+And a lightning bolt
 
 #### Refrain
 
-Back in Time  
-Flames on the street
-
-Back in Time  
-and Ice on the car
-
-Back in Time  
-It's a time machine
+Back in Time, flames on the street  
+Back in Time, and ice on the car  
+Back in Time, it's a time machine
