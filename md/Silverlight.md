@@ -28,9 +28,9 @@ Bring back my Silverlight
 
 #### Refrain
 
-Come on baby, don't say may, - Come back to me my Silverlight  
-Come on honey, want no money - Come back to me my Silverlight  
-Oh my Darling, I am falling - Come back to me my Silverlight  
+Come on baby, don't say maybe, - Please bring back my Silverlight  
+Come on honey, want no money - Please bring back my Silverlight  
+Oh my Darling, I am falling - Please bring back my Silverlight  
 
 Hey my sweetheart, my heart beats hard - World Wide Web is waiting for you now  
 
@@ -55,8 +55,8 @@ Bring back my Silverlight
 
 #### Refrain
 
-Come on baby, don't say may, - Come back to me my Silverlight  
-Come on honey, want no money - Come back to me my Silverlight  
-Oh my Darling, I am falling - Come back to me my Silverlight  
+Come on baby, don't say maybe, - Please bring back my Silverlight  
+Come on honey, want no money - Please bring back my Silverlight  
+Oh my Darling, I am falling - Please bring back my Silverlight  
 
 Hey my sweetheart, my heart beats hard - World Wide Web is waiting for you now  
