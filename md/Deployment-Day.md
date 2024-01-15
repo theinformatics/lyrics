@@ -1,5 +1,3 @@
-## :warning: draft version  
-
 # Deployment Day
 
 #### Verse 1
@@ -20,45 +18,10 @@ Welcome to Deployment Day
 Review tomorrow, all the pressure today
 Yeah, it is again deployment day
 
----
+#### Verse 2
 
-Strophe 1
+Code reviews and merge conflicts, endless git debates.  
+Terminal windows, and more info, someone please hit the brakes  
 
-Refrain 2x
-
-Some sprints are done, the final run, we are not finished yet
-bet
-
-
-
-
-
-
-
-
-feature is not finished yet
-okay, anyway
-Managers say 
-Release it today!
-
-
-
-
- 
-They will come to you
-There is a security breakthrouh
-
-You are from the DevOps Crew
-You fix like you know Kung Fu
-
-
-It is deployment day
-You have to fix it today
-
-
-Deployment broken baby,
-Perhaps it is the code, maybe
-
-
-Congrats, you made it all the way
-
+Product owners changing scope, priorities shift each day.  
+Deadlines loom, expectations boom, can we just replay?  
