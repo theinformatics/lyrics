@@ -29,5 +29,7 @@
 [Coding All Night Long](md/Coding-all-night-long.md)  
 [Deployment Day](md/Deployment-Day.md)  
 [Excel Files and Laser Beams (My Colleague Is A Robot)](md/Excel-Files-And-Laser-Beams.md)  
+[Failure is not an Option](md\Failure-is-not-an-option.md)  
+[Mr. Incognito](md\Mr-incognito.md)  
 [Pre-Programmed Love Affair](md/Pre-Programmed-Love-Affair.md)  
 [Silverlight (My Computer Valentine)](md/Silverlight.md)  
